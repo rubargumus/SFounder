@@ -74,3 +74,4 @@ Note ==> No http or https at the beginning, no / at the end
 
 finally : 
     print("Goodbye .d Nice Hacking")
+    input("Press Enter For Close")
